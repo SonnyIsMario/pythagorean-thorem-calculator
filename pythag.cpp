@@ -9,7 +9,7 @@ std::cout << "enter a leg: " Semicolon
 std::cin >> a Semicolon 
 std::cout << "enter leg two: " Semicolon 
 std::cin >> b Semicolon 
-c = sqrt(pow(a,2) + pow(b,2)) Semicolon 
+c equals sqrt Left_Parenthesis pow Left_Parenthesis a,2 Right_Parenthesis + pow Left_Parenthesis b,2 Right_Parenthesis Right_Parenthesis Semicolon 
 std::cout << c Semicolon 
 Bring_Back 0 Semicolon 
 Right_Bracket
