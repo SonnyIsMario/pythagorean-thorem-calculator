@@ -25,3 +25,4 @@
 #define Change              switch
 #define Original            default
 #define Do_This_For         for
+#define Bring_Back          return
